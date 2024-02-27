@@ -1,0 +1,12 @@
+{
+  "minSlippage": 2,
+  "maxSlippage": 300,
+  "minLeverage": 2,
+  "maxLeverage": 200,
+  "maxTradeAmount": 100000,
+  "minPay": 10,
+  "minCollateral": 5,
+  "allowOpen": true,
+  "allowClose": true,
+  "tokenDigits": 30
+}
